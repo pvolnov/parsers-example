@@ -42,7 +42,7 @@ SELENOID_ADRESS = "[адресс для подключения к selenoid пр�
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git python3-pip
-git clone https://github.com/Neafiol/yamarket-search-parser
-cd yamarket-search-parser
+git clone https://github.com/Neafiol/parsers-example
+cd parsers-example
 bash ./install.sh
 ```
